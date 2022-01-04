@@ -7,7 +7,7 @@ are located.
 to determine which of the other documents has the greatest
 similarity to the one being considered.  
 
-[Image](https://github.com/GurpreetSingh97/Book_recommendation_system/blob/main/Screen%20Shot%202022-01-03%20at%208.21.03%20PM.png)
+![Image](https://github.com/GurpreetSingh97/Book_recommendation_system/blob/main/Screen%20Shot%202022-01-03%20at%208.21.03%20PM.png)
 
 
 

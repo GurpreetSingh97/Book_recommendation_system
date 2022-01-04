@@ -1,11 +1,3 @@
-# Name:   <Gurpreet Singh>
-# Student Number: <20313393>
-# Email:  <21gsgs@queensu.ca>
-
-# I confirm that this assignment solution is my own work and conforms to
-# Queen's standards of Academic Integrity
-
-
 import tkinter as tk
 import glob
 from tkinter.filedialog import askdirectory

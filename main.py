@@ -3,8 +3,8 @@ import glob
 from tkinter.filedialog import askdirectory
 
 window = tk.Tk()  # create a window that can be displayed
-window.title("Assignment3")  # give it a title
-window.geometry("600x800")  # width x height in pixels
+window.title("Recommendation System")  # give it a title
+window.geometry("400x700")  # width x height in pixels
 
 
 def letter_only(w):

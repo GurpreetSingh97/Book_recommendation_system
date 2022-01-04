@@ -9,6 +9,6 @@
 <img src="https://github.com/GurpreetSingh97/Book_recommendation_system/blob/main/screenshots/output.png" alt="alt text" width="400" height="whatever">  
 
 # How to run the program  
-1. Download the Book_recommendation_system repository.  
+1. Download the [Book_recommendation_system](https://github.com/GurpreetSingh97/Book_recommendation_system) repository.  
 2.  Compile and run the [main.py](https://github.com/GurpreetSingh97/Book_recommendation_system) file.  
 3.  Choose the folder where all the files are located which needs to compared for recommendation. ([Book](https://github.com/GurpreetSingh97/Book_recommendation_system/tree/main/books) folder has some file for demo run.)

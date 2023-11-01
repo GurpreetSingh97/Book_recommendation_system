@@ -9,6 +9,7 @@ This Python code implements a simple recommendation system that utilizes the Jac
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [Results](#results)
+- [Run it](#How-to-run-it)
 
 ## Introduction
 
@@ -55,7 +56,7 @@ The GUI will display a table with two columns:
 You can use this information to recommend similar documents to users or for any other relevant application.
 
 
-# How to run the program  
+## How to run it
 1. Download the [Book_recommendation_system](https://github.com/GurpreetSingh97/Book_recommendation_system) repository.  
 2.  Compile and run the [main.py](https://github.com/GurpreetSingh97/Book_recommendation_system) file.  
 3.  Choose the folder where all the files are located which needs to compared for recommendation. ([Book](https://github.com/GurpreetSingh97/Book_recommendation_system/tree/main/books) folder has some file for demo run.)
